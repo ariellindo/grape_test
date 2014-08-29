@@ -3,7 +3,7 @@
 try JSONP
 http://localhost:3000/api/v1/ping?callback=success
 
---changes
+-- changes
 * routes.rb
 * application.rb
 * api folder
